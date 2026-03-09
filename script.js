@@ -40,8 +40,6 @@ hideLoader()
 
 }
 
-
-
 function changeTab(type,btn){
 
 document.querySelectorAll(".tab")
@@ -228,4 +226,5 @@ loader.style.display="block"
 
 function hideLoader(){
 loader.style.display="none"
+
 }
